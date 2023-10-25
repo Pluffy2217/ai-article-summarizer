@@ -1,8 +1,18 @@
-# React + Vite
+# AI Article Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Summarize Articles with OpenAI GPT-4
 
-Currently, two official plugins are available:
+Simplify your reading with Summize, an article summarizer that transforms lengthy articles into clear and concise summaries
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+- Copy to Clipboard
+- Recent History to previously viewed Articles
+- Breif Summary of any article or website can be viewed by providing link to the same.
+
+Tech Stack:
+- React
+- Redux Toolkit
+- Tailwind CSS
+- Article Summarizer API from Rapid Api (https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
+
+
